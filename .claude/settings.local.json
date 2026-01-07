@@ -3,5 +3,9 @@
     "allow": [
       "Bash(find:*)"
     ]
-  }
+  },
+  "enabledMcpjsonServers": [
+    "context7"
+  ],
+  "enableAllProjectMcpServers": true
 }
